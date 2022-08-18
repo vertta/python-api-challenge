@@ -1,5 +1,6 @@
 # python-api-challenge
-Module 6 Challenge
+##Module 6 Challenge
+
 #WeatherPy
 The first requirement is to create a series of scatter plots to showcase the following relationships:
 
